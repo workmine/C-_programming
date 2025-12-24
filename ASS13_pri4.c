@@ -35,4 +35,3 @@ int main() {
     free(name);
     return 0;
 }
-
